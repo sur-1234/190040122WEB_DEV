@@ -9,7 +9,7 @@
 <body>
 <h1>SURESH CHOUHAN</h1>
 <h2>CIVIL DEPARTMENT</h2>
-<img src="2.jpg" width="30%" hight="30%">
+<img src="2.jpg" width="60%" hight="60%">
 <h2>ROOL NO = 190040122 </h2>
 <h1>EDUCATION</h1>
 <p>. SCHOOL-GOOD SHEPHERD PUBLIC SCHOOL<br>.COACHING-ALLEN,KOTA<br>.COLLEGE-IIT BOMBAY</p>
