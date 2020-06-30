@@ -6,7 +6,7 @@
 <title> About ME </title>
 </head>
 <body>
-<h1>SURESH CHOUHAN</h1>
+<h1 style="colour:blue;">SURESH CHOUHAN</h1>
 <h2>CIVIL DEPARTMENT</h2>
 <img src="3.jpg" width="30%" hight="30%">
 <h2>ROLL NO = 190040122 </h2>
